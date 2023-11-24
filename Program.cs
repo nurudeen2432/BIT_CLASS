@@ -19,11 +19,11 @@ public class Program
         Employee em10 = new Employee("Collins ikechukwu", 32, 333000.55, 110);
 
         //Display employee Information
-        Console.WriteLine("Initial Employee Information:");
+        Console.WriteLine("First Employee Information:");
         em1.DisplayInfo();
-        Console.WriteLine("Initial Employee Information:");
+        Console.WriteLine("Second  Employee Information:");
         em2.DisplayInfo();
-        Console.WriteLine("Initial Employee Information:");
+        Console.WriteLine("Third Employee Information:");
         em3.DisplayInfo();
 
         //Update Employee Information
