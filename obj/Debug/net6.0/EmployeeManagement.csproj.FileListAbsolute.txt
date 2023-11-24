@@ -13,3 +13,18 @@ C:\Users\habib\OneDrive\Documents\Employee Management\obj\Debug\net6.0\refint\Em
 C:\Users\habib\OneDrive\Documents\Employee Management\obj\Debug\net6.0\EmployeeManagement.pdb
 C:\Users\habib\OneDrive\Documents\Employee Management\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
 C:\Users\habib\OneDrive\Documents\Employee Management\obj\Debug\net6.0\ref\EmployeeManagement.dll
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\habib\OneDrive\Documents\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
